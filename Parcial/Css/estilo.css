@@ -1,0 +1,28 @@
+body{
+ background-color: inherit;
+ text-align: center;
+ margin: auto;
+    }
+
+.Principal{
+  margin: auto;
+  text-align: center;
+  background-color: inherit;
+          }
+
+.navegador{
+  align-items: center;
+  text-align: center;
+  margin: auto;
+          }
+.emcab{
+  background-color: Blue;
+  margin-right: auto;
+  background-position: center;
+  text-align: center;
+  text-decoration: line-through;
+      }
+.cuerpo{
+  background-color: black;
+  align-items: center;
+}
